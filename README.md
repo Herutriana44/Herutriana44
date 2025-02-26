@@ -1,4 +1,5 @@
 # Heru Triana's Profile 👨‍💻
+## Junior Data Scientist/AI Engineer 👨‍💻
 <a target="_blank"><img width="40%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDl0Y2twNjQyNzR5cDg2aGEwZmxiMTM5cXV1em9jN2VicDhnZTZjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7x3PHPSMXSONHFuOK4/giphy.gif"></a>
 
 ## About Me 🌍
